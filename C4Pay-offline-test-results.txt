@@ -1,0 +1,21 @@
+test_01_all_five_open (test_release.Release.test_01_all_five_open) ... ok
+test_02_policy_fail_closed (test_release.Release.test_02_policy_fail_closed) ... ok
+test_03_live_always_denied (test_release.Release.test_03_live_always_denied) ... ok
+test_04_sqlite_whitelist (test_release.Release.test_04_sqlite_whitelist) ... ok
+test_05_fee_math (test_release.Release.test_05_fee_math) ... ok
+test_06_inputs (test_release.Release.test_06_inputs) ... ok
+test_07_simulated_receipt (test_release.Release.test_07_simulated_receipt) ... ok
+test_08_idempotent_after_reopen (test_release.Release.test_08_idempotent_after_reopen) ... ok
+test_09_conflicting_reference (test_release.Release.test_09_conflicting_reference) ... ok
+test_10_provider_kyc (test_release.Release.test_10_provider_kyc) ... ok
+test_11_secondary_sanctions (test_release.Release.test_11_secondary_sanctions) ... ok
+test_12_secondary_fraud (test_release.Release.test_12_secondary_fraud) ... ok
+test_13_velocity_window (test_release.Release.test_13_velocity_window) ... ok
+test_14_disclosure_before_quote (test_release.Release.test_14_disclosure_before_quote) ... ok
+test_15_html_quote_flow (test_release.Release.test_15_html_quote_flow) ... ok
+test_16_five_question_flow (test_release.Release.test_16_five_question_flow) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.183s
+
+OK
